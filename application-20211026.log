@@ -1,0 +1,6 @@
+2021-10-26 00:31:37.740 [main] TRACE Main - message
+2021-10-26 00:31:37.744 [main] DEBUG Main - message
+2021-10-26 00:31:37.744 [main] INFO  Main - asdasda
+2021-10-26 00:31:37.744 [main] WARN  Main - sadadasd
+2021-10-26 00:31:37.745 [main] ERROR Main - asdadasd
+2021-10-26 00:39:20.645 [main] TRACE Main - Area for the system input is: 78.53981633974483
