@@ -4,3 +4,8 @@
 2021-10-26 00:31:37.744 [main] WARN  Main - sadadasd
 2021-10-26 00:31:37.745 [main] ERROR Main - asdadasd
 2021-10-26 00:39:20.645 [main] TRACE Main - Area for the system input is: 78.53981633974483
+2021-10-26 08:39:51.592 [main] TRACE Main - Area for the system input is: 314.1592653589793
+2021-10-26 20:57:29.911 [main] TRACE FileRead - average is: 
+101.2
+2021-10-26 21:00:11.173 [main] TRACE FileRead - average is: 
+101.2
