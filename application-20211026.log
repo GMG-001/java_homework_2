@@ -1,11 +1,16 @@
-2021-10-26 00:31:37.740 [main] TRACE Main - message
-2021-10-26 00:31:37.744 [main] DEBUG Main - message
-2021-10-26 00:31:37.744 [main] INFO  Main - asdasda
-2021-10-26 00:31:37.744 [main] WARN  Main - sadadasd
-2021-10-26 00:31:37.745 [main] ERROR Main - asdadasd
-2021-10-26 00:39:20.645 [main] TRACE Main - Area for the system input is: 78.53981633974483
-2021-10-26 08:39:51.592 [main] TRACE Main - Area for the system input is: 314.1592653589793
-2021-10-26 20:57:29.911 [main] TRACE FileRead - average is: 
-101.2
-2021-10-26 21:00:11.173 [main] TRACE FileRead - average is: 
-101.2
+2021-10-26 21:16:54.356 [main] TRACE FileRead - average is: 101
+2021-10-26 21:16:59.473 [main] TRACE FileRead - average is: 101
+2021-10-26 21:19:56.343 [main] TRACE FileRead - average is: 101
+2021-10-26 21:25:28.448 [main] TRACE FileRead - average is: 101
+2021-10-26 21:29:30.152 [main] TRACE FileRead - average is: 101
+2021-10-26 21:30:06.320 [main] ERROR FileRead - Error during reading system input
+java.lang.NumberFormatException: For input string: ""
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:770) ~[?:?]
+	at FileRead.fileInputOutput(FileRead.java:21) [classes/:?]
+	at Main.main(Main.java:5) [classes/:?]
+2021-10-26 21:30:21.828 [main] TRACE FileRead - average is: 101
+2021-10-26 21:30:29.716 [main] TRACE FileRead - average is: 101
+2021-10-26 21:31:12.331 [main] TRACE FileRead - average is: 101
+2021-10-26 21:32:44.383 [main] TRACE FileRead - average is: 101
